@@ -1,7 +1,12 @@
 {
-    "name": "abhay7dotdev",
-    "compatibility_date": "2025-06-06",
-    "assets": {
-        "directory": "./dist"
-    }
+  "name": "abhay7dotdev-v1",
+  "compatibility_date": "2026-10-18",
+  "assets": {
+    "directory": "./dist"
+  },
+  "preview_urls": false,
+  "send_metrics": false,
+  "observability": {
+    "enabled": false
+  }
 }
