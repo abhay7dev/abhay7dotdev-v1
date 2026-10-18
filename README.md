@@ -1,6 +1,8 @@
-# https://abhay7.dev - My personal site
+# Archived - This is version 1
 
-See it for yourself at https://abhay7.dev!
+## https://v1.abhay7.dev - My personal site
+
+See it for yourself at https://v1.abhay7.dev!
 
 TODO:
 
